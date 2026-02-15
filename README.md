@@ -17,6 +17,18 @@ MultiConnect captures the system's audio output via WASAPI loopback and distribu
 - **Direct2D GUI** -- dark-themed window with device cards, per-device volume sliders, expandable telemetry
 - **Per-device volume** -- independent volume and mute control for each Bluetooth endpoint
 
+## Installation
+
+### Download Installer
+1. Go to the [Releases](https://github.com/Sridhar-GS/MultiConnect/releases) page.
+2. Download the latest `MultiConnect-*-win64.exe` installer.
+3. Run the installer and follow the prompts.
+
+### Portable Zip
+1. Go to the [Releases](https://github.com/Sridhar-GS/MultiConnect/releases) page.
+2. Download the latest `MultiConnect-*-win64.zip`.
+3. Extract the contents to a folder and run `MultiConnect.exe`.
+
 ## Architecture
 
 ```
